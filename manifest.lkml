@@ -12,6 +12,5 @@ visualization: {
   id: "@{vis_id}"
   label: "@{vis_label}"
   file: "forcedirected.js"
-  sri_hash: "sha256"
   dependencies: []
 }
