@@ -1,10 +1,10 @@
 constant: vis_id {
-  value: "default_id"
+  value: "force-directed-graph"
   export: override_optional
 }
 
 constant: vis_label {
-  value: "default_label"
+  value: "Force-Directed Graph"
   export: override_optional
 }
 
