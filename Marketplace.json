@@ -1,19 +1,15 @@
 {
-  "label": "Force-directed Graph",
+  "label": "Force-Directed Graph",
   "category_label": "plug-ins",
-  "branding": {
-    "image_uri": "https://marketplace-api.looker.com/visualization-screenshots/gauge_icon.png",
-    "tagline": "Use the Gauge visualization to display a measure and progress to a goal."
-  },
    "constants": {
-        "vis_label": {
-            "label": "force-directed-graph",
-            "description": "This label will appear in the visualization selector in the Looker Explore UI."
-        },
-        "vis_id": {
-            "label": "Force-directed Graph",
-            "description": "This must be a unique ID across all visualizations.",
-            "value_constraint": "visualization"
-        }
-    }
+      "vis_label": {
+          "label": "Force-Directed Graph",
+          "description": "Use a force-directed graph to show relationships between entities in your data."
+      },
+      "vis_id": {
+          "label": "force-directed-graph",
+          "description": "Force-Directed Graph",
+          "value_constraint": "visualization"
+      }
+  }
 }
