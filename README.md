@@ -6,14 +6,6 @@ Nodes within the graph are mathematically clustered together based-on their rela
 
 Force-directed graphs are particularly effective for visualizing how various entities (dimensions) are connected to each other.
 
-The example below depicts all bike share stations in the Boston areas. When riders bike from one station to another it creates a link in the data. The colors represent the city where the bike station is located (Boston, Cambridge, Somerville).  The four dimensions returned in this example are
-
-* Departing station (dimension)
-* Departing station city (dimension)
-* Arriving station (dimension)
-* Arriving station city (dimension)
-* Total bike trips (measure)
-
 This diagram requires exactly 4 dimensions and 1 measure. It was built using the D3 visualization library.
 
 Dimension 1: node value 1
