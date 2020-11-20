@@ -25,3 +25,19 @@ The example below depicts all bike share stations in the Boston areas. When ride
 * Total bike trips (measure)
 
 ![Force-Directed Graph](assets/force-directed-ex.gif)
+
+
+#### Building
+
+1.  **Install Dependecies.**
+
+    Using yarn, install all dependencies
+    ```
+    yarn
+    ```
+2. **Make changes to the source code**
+
+3.  **Compile your code**
+    ```
+    yarn build
+    ```
